@@ -8,7 +8,7 @@ typedef struct Card {
   int suit;
   const char *name;
 } Card;
-
+// penis but
 Card deck[] = {{1, 0, "Ace of Hearts"},    {1, 1, "Ace of Diamonds"},
                {1, 2, "Ace of Clubs"},     {1, 3, "Ace of Spades"},
                {2, 0, "2 of Hearts"},      {2, 1, "2 of Diamonds"},
