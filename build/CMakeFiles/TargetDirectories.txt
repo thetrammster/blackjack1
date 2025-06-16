@@ -1,0 +1,3 @@
+/home/tram/projects/blackjack/build/CMakeFiles/blackjack.dir
+/home/tram/projects/blackjack/build/CMakeFiles/edit_cache.dir
+/home/tram/projects/blackjack/build/CMakeFiles/rebuild_cache.dir

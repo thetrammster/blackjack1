@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tram/projects/blackjack/build",
+  "command": "/usr/bin/cc -g -o CMakeFiles/blackjack.dir/main.c.o -c /home/tram/projects/blackjack/main.c",
+  "file": "/home/tram/projects/blackjack/main.c",
+  "output": "CMakeFiles/blackjack.dir/main.c.o"
+}
+]
